@@ -1,5 +1,6 @@
 # BITCOIN (BTC) CHANGE TELEGRAM BOT
 
+@BTC_CHANGE_BOT
 
 ## BOT with UI WITHOUT connection to the blockchain
 
